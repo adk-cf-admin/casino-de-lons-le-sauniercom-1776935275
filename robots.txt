@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casino-de-lons-le-saunier.com/
+Sitemap: https://casino-de-lons-le-saunier.com/sitemap.xml

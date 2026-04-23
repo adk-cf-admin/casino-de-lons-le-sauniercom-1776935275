@@ -1,0 +1,202 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#ffffff",
+            "lang-select-color": "#222829",
+            "bg-light": "#7B1F82",
+            "welcome-bonus-bg": "#ededed",
+            "top-games-hover-fg": "#1f1f1f",
+            "main-bg": "#ffffff",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#7B1F82",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#ffffff",
+            "yellow": "#431047",
+            "yellow-button": "#521556",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#7B1F82",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#7B1F82",
+            "faq-label": "#ededed",
+            "bg-footer": "#7B1F82",
+            "copyright": "#e7e7d5",
+            "starColor": "#ffea00",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6647"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6649",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino De Lons-Le-Saunier"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6648",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino De Lons-Le-Saunier"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Casino De Lons-Le-Saunier",
+                    "title": "Casino JOA de Lons-le-Saunier dans le Jura",
+                    "description": "Découvrez notre casino à Lons-le-Saunier avec des machines à sous dès un centime, des jeux de table traditionnels et électroniques, le restaurant Le Loft, un bar, des espaces pour événements privés et le proche Hôtel du Béryl 3 étoiles.",
+                    "canonical": "casino-de-lons-le-saunier.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6650",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-de-lons-le-saunier.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6651"
+                },
+                "hero": {
+                    "title": "Découvrez l’expérience complète du Casino JOA de Lons-le-Saunier au cœur du Jura",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6652",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -2,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6653",
+                    "mobileImageSizeModifier": -2,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Ouvert tous les jours toute l’année.",
+                        "Machines à sous dès un centime.",
+                        "Jeux de table traditionnels et électroniques.",
+                        "Restaurant, bar, hôtel et événements.",
+                        "Parking gratuit, Wi-Fi et terrasse."
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Casino De Lons-Le-Saunier App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6654",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Casino De Lons-Le-Saunier App",
+                    "mobileGooglePlayImageTitle": "Casino De Lons-Le-Saunier App",
+                    "mobileIosImageTitle": "Casino De Lons-Le-Saunier App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "À propos du casino",
+                        "description1": "",
+                        "items": [
+                            "Nous ouvrons à 10h00 chaque jour.",
+                            "Notre hôtel voisin propose 40 chambres.",
+                            "Notre agenda inclut des après-midis gourmandes hebdomadaires."
+                        ],
+                        "description2": "Au Casino JOA de Lons-le-Saunier, nous accueillons nos clients dans une destination de loisirs au cœur du Jura. Notre casino est situé au 795 Boulevard de l'Europe, 39000 Lons-le-Saunier, et nos informations officielles soulignent un accès pratique depuis Besançon, Dijon, Lyon et Chalon-sur-Saône. Nous sommes ouverts sept jours sur sept toute l’année.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6655",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "Casino JOA de Lons-le-Saunier",
+                        "description3": "Notre expérience de jeu repose sur la variété et l’accessibilité. Nous proposons 85 machines à sous avec des mises à partir de 0,01 €, ainsi que des jeux de table traditionnels tels que le Black Jack, l’Ultimate Poker et la Roulette Anglaise, sans oublier la Roulette Anglaise électronique et le Black Jack électronique.\n\nNous associons également le jeu à la restauration et aux moments de convivialité pour nos clients. Notre restaurant sur place, Le Loft, fait partie de notre offre de divertissement, et notre casino dispose aussi d’un bar, permettant à nos clients de profiter de la gastronomie, des boissons et des loisirs en un seul lieu.\n\nPour les clients qui souhaitent prolonger leur visite, l’Hôtel du Béryl 3 étoiles se trouve à seulement quelques pas de notre casino et accueille ses visiteurs toute l’année. L’hôtel propose 40 chambres, dont 2 suites et 2 chambres accessibles, tandis que notre programmation officielle inclut également des événements réguliers et que nous mettons à disposition des espaces privatisables pour des occasions organisées."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Jeux et énergie",
+                        "description": "<p>Chez nous, le plaisir du jeu s’exprime dans un espace complet, pensé pour offrir une vraie variété d’ambiances et de sensations. Nous réunissons les grands incontournables du casino dans une atmosphère vivante, fluide et facile à apprécier, que l’on vienne pour une découverte ou pour une soirée plus intense.<\/p> <br> <p>Notre salle de machines à sous occupe une place majeure dans l’expérience, avec 85 machines à sous disponibles tous les jours. Cette diversité nous permet de proposer un rythme de jeu dynamique et attractif, avec une mise à partir de 0,01 €, pour vivre notre univers avec souplesse et liberté.<\/p>  <br> <p>Nous mettons aussi à l’honneur les jeux de table traditionnels pour retrouver toute l’intensité du casino en version classique. Chez nous, le Black jack, l’Ultimate Poker et la Roulette anglaise donnent à la soirée une vraie profondeur de jeu et un plaisir renouvelé à chaque visite.<\/p>  <br> <p>Notre offre s’enrichit encore avec les jeux de table électroniques, qui apportent une dimension moderne et très accessible à l’ensemble. Nous proposons notamment la Roulette anglaise électronique et le Black jack électronique, ouverts tous les jours, pour prolonger le plaisir dans un cadre contemporain.<\/p>  <br> <p>Chez nous, cette complémentarité entre machines à sous, tables traditionnelles et postes électroniques crée une expérience de jeu très équilibrée. Nous permettons ainsi à chacun de composer sa soirée à son rythme, selon ses envies et ses préférences du moment.<\/p><br> <p>Nous faisons également vivre notre casino à travers des animations régulières, qui ajoutent du relief à chaque passage dans notre établissement. Cette programmation contribue à créer une ambiance entraînante, avec de nouvelles occasions de venir partager un moment de divertissement chez nous.<\/p> <br> <p>Avec notre Club JOA, nous prolongeons encore l’expérience en récompensant la fidélité de nos visiteurs. Nous permettons de cumuler des points, de profiter de surprises et d’avantages, de vivre des moments VIP offerts et de gagner du temps grâce à notre carte de club.<\/p>  <br> <p>Notre établissement s’affirme ainsi comme une destination de loisir complète dans le Jura, où le jeu, l’animation et l’accueil se rejoignent naturellement. Chez nous, tout est réuni pour transformer une simple sortie en un moment riche, agréable et pleinement divertissant.<\/p>  <br>\n<div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n<tr>\n  <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Élément\n  <\/th>\n  <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Informations confirmées\n  <\/th>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Machines à sous\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    85 machines à sous, ouvertes tous les jours, avec mise à partir de 0,01 €\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Jeux de table\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Black jack, Ultimate Poker et Roulette anglaise\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Mises des tables\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Black jack à partir de 5 € ; Ultimate Poker à partir de 2 € ; Roulette anglaise à partir de 1 €\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Jeux électroniques\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Roulette anglaise électronique ouverte tous les jours à partir de 0,5 € ; Black jack électronique ouvert tous les jours à partir de 2 €\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Club fidélité\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Club JOA avec points, surprises, avantages, moments VIP offerts et carte pour gagner du temps\n  <\/td>\n<\/tr>\n<\/table> <\/div>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Saveurs et sortie",
+                        "description": "<p>Notre établissement vous accueille à Lons-le-Saunier, au 795 Boulevard de l’Europe, dans un complexe qui réunit casino, restaurant, bar et hôtel. Cette organisation nous permet d’offrir une sortie complète et confortable, où tout est réuni au même endroit pour prolonger le plaisir sans changer d’adresse.<\/p>  <br> <p>Chez nous, l’expérience gourmande tient une vraie place avec notre restaurant Le Loft. Nous y proposons une cuisine bistronomique et une carte variée, en privilégiant le local, les produits extra frais, les saveurs du terroir, les burgers au bœuf origine France et les fromages locaux.<\/p>  <br> <p>Notre restaurant permet aussi de vivre des moments différents selon l’ambiance recherchée, près de la cheminée, sur l’estrade ou en terrasse. Nous avons voulu faire du Loft un lieu chaleureux et vivant, où la convivialité accompagne naturellement la sortie au casino.<\/p>  <br> <p>Nous proposons également un bar ouvert tous les jours à partir de 10h, parfait pour faire une pause dans une ambiance détendue. Chez nous, il est possible de partager un verre, de profiter d’une partie de babyfoot entre amis et de découvrir notre bière JOA à fabrication artisanale, blonde ou ambrée.<\/p> <br> <p>Notre programmation d’événements vient enrichir l’ensemble avec des rendez-vous réguliers à ne pas manquer. Nous faisons vivre notre établissement avec des animations variées, comme des opérations fidélité, des soirées à thème et des formules événementielles qui donnent encore plus de relief à chaque visite.<\/p><br> <p>Nous prolongeons aussi l’expérience grâce à l’Hôtel du Béryl***, situé au cœur du complexe. Cette présence sur place apporte encore plus de confort et transforme notre adresse en destination complète, idéale pour associer détente, restauration et divertissement dans un même environnement.<\/p> <br> <p>Chez nous, le confort sur place accompagne chaque moment avec des services pratiques et appréciables. Climatisation, wifi gratuit, parking gratuit, terrasse, accès PMR, vestiaire, espaces privatisables et distributeur de billets contribuent à rendre la visite plus agréable et plus fluide.<\/p>  <br> <p>Nous créons ainsi une adresse de sortie complète dans le Jura, où le jeu rencontre la gourmandise, la convivialité et le confort. Notre établissement permet de passer facilement d’un moment gourmand à un verre, d’une animation à une soirée de jeu, dans une ambiance accueillante et pleinement tournée vers le plaisir des visiteurs.<\/p> <br> <div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n<tr>\n  <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Repère pratique\n  <\/th>\n  <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Informations confirmées\n  <\/th>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Adresse\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    795 Boulevard de l'Europe, 39000 Lons-le-Saunier\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Horaires du casino\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Lundi, mardi, mercredi, jeudi, dimanche et jour férié : 10h à 2h ; vendredi, samedi et veille de jour férié : 10h à 3h\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Restaurant Le Loft\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Cuisine bistronomique ; carte variée ; produits locaux et extra frais ; réservation en ligne ; entrée indépendante du casino et accessible à toute la famille\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Horaires du restaurant\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Lundi, mardi, mercredi, jeudi, dimanche et jour férié : 12h à 13h30 et 19h à 21h30 ; vendredi et veille de jour férié : 12h à 13h30 et 19h à 22h ; samedi : 19h à 22h\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bar\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Ouvert tous les jours à partir de 10h ; babyfoot ; bière JOA à fabrication artisanale, blonde ou ambrée\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Services sur place\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Climatisation, vestiaire, parking gratuit, wifi gratuit, terrasse, accès PMR, espace(s) privatisable(s), distributeur de billets\n  <\/td>\n<\/tr>\n<\/table> <\/div>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Où se situe votre casino ?",
+                            "answer": "Nous sommes situés au 795 Boulevard de l'Europe, 39000 Lons-le-Saunier."
+                        },
+                        {
+                            "title": "Quels sont vos horaires d’ouverture ?",
+                            "answer": "Nous sommes ouverts tous les jours toute l’année. Du lundi au jeudi, le dimanche et les jours fériés, nous ouvrons de 10h00 à 2h00. Le vendredi, le samedi et les veilles de jours fériés, nous ouvrons de 10h00 à 3h00."
+                        },
+                        {
+                            "title": "Quels jeux proposez-vous ?",
+                            "answer": "Nous proposons 85 machines à sous, des jeux de table traditionnels incluant le Black Jack, l’Ultimate Poker et la Roulette Anglaise, ainsi que la Roulette Anglaise électronique et le Black Jack électronique."
+                        },
+                        {
+                            "title": "Proposez-vous une offre de restauration sur place ?",
+                            "answer": "Oui. Nos clients peuvent profiter du restaurant Le Loft et de notre bar sur place dans le cadre d’une expérience de loisirs complète."
+                        },
+                        {
+                            "title": "Vos clients peuvent-ils séjourner à proximité ?",
+                            "answer": "Oui. L’Hôtel du Béryl 3 étoiles se situe à deux pas de notre casino et propose 40 chambres, dont 2 suites et 2 chambres accessibles."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
